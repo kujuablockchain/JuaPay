@@ -1,2 +1,2 @@
 # JuaPay
-The smart contract that faciliates transactions between JuaPay app users using the Kujua Blockchain infrastructure.
+An open source payment settlements smart contract that faciliates transactions between JuaPay app and API users using the Kujua Blockchain infrastructure.
